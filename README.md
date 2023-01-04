@@ -2,7 +2,7 @@
 - 👀 I’m interested in  stydy and work in desenvolviment web area
 - 🌱 I’m currently learni #HTML, #CSS e #JAVASCRIPT, GIT and GITHUB and, #FRAMEWORKS and tools...
 - 💞️ I’m looking to collaborate on small and big projects for me develop more than today
-- 📫 How to reach me : gabriel8github@gmail.com or gabriel8webProgrammer@gmail.com
+- 📫 How to reach me : gabriel8github@gmail.com or gabriel8webprogrammer@gmail.com
 - me submit a email, i will like of answer :)
 
 <!---
