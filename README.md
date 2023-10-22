@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @gabriel8programmer
-- 👀 I’m interested in  stydy and work in desenvolviment web area
-- 🌱 I’m currently learni #HTML, #CSS e #JAVASCRIPT, GIT and GITHUB and, #FRAMEWORKS and tools...
+- 👋 Hi, I’m Gabriel
+- 👀 I’m interested in styding and working in the development web area
+- 🌱 I’m currently learni #HTML, #CSS (#BOOTSTRAP) e #JAVASCRIPT, #PHP, GIT and GITHUB and, #FRAMEWORKS and tools...
 - 💞️ I’m looking to collaborate on small and big projects for me develop more than today
 - 📫 How to reach me : gabriel8github@gmail.com or gabriel8webprogrammer@gmail.com
 - me submit a email, i will like of answer :)
