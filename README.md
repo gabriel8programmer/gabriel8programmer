@@ -1,11 +1,28 @@
-- 👋 Hi, I’m Gabriel
-- 👀 I’m interested in styding and working in the development web area
-- 🌱 I’m currently learni #HTML, #CSS (#BOOTSTRAP) e #JAVASCRIPT, #PHP, GIT and GITHUB and, #FRAMEWORKS and tools...
-- 💞️ I’m looking to collaborate on small and big projects for me develop more than today
-- 📫 How to reach me : gabriel8github@gmail.com or gabriel8webprogrammer@gmail.com
-- me submit a email, i will like of answer :)
+# 👋 Hello, I'm Gabriel!
 
-<!---
-gabriel8programmer/gabriel8programmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm a passionate and dedicated developer working towards mastering the art of web development. Here's a bit about me:
+
+## 🌟 About Me
+- 👀 I have a strong interest in studying and building projects in **web development**.
+- 🌱 Currently learning and honing my skills in:
+  - **Front-end:** #HTML, #CSS, #Sass, #Bootstrap, #JavaScript, #React, #Typescript
+  - **Back-end:** #NodeJs, #Express
+  - **Version Control:** Git and GitHub
+  - **Frameworks and Tools:** Continuously exploring new technologies to stay ahead in the industry.
+- 💞️ Excited to collaborate on both small and large projects to grow and contribute meaningfully.
+
+## 🎯 Goals
+- To improve my development skills through real-world experience and impactful projects.
+- To contribute to open-source projects and give back to the community.
+
+## 📫 Get in Touch
+If you'd like to collaborate, discuss ideas, or just say hi, feel free to reach out! I’m always open to new opportunities and connections.  
+📧 Email:  
+- **gabriel8github@gmail.com**  
+- **gabriel8webprogrammer@gmail.com**
+
+I’ll be happy to respond to your email. Let’s create something amazing together! 🚀
+
+---
+
+🌐 **Follow me as I grow in my development journey!**
