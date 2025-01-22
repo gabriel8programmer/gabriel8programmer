@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm a passionate and dedicated developer working t
 - 👀 I have a strong interest in studying and building projects in **web development**.
 - 🌱 Currently learning and honing my skills in:
   - **Front-end:** #HTML, #CSS, #Sass, #Bootstrap, #JavaScript, #React, #Typescript
-  - **Back-end:** #NodeJs, #Express
-  - **Version Control:** Git and GitHub
+  - **Back-end:** #NodeJs, #Express, #PHP, #MySQL, #PostgreeSQL, @MongoDB
+  - **Version Control:** #Git, #GitHub
   - **Frameworks and Tools:** Continuously exploring new technologies to stay ahead in the industry.
 - 💞️ Excited to collaborate on both small and large projects to grow and contribute meaningfully.
 
