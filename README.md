@@ -12,19 +12,28 @@ Welcome to my GitHub profile! I'm a passionate and dedicated developer working t
 ## 🛠️ Tech Stack
 
 ### **Front-End**
-| HTML | CSS | Sass | Bootstrap | JavaScript | React | Next.js | TypeScript |
-|:----:|:---:|:----:|:---------:|:----------:|:-----:|:-------:|:----------:|
-| ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
+
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
 
 ### **Back-End**
-| Node.js | Express | MySQL | PostgreSQL | MongoDB |
-|:-------:|:-------:|:---:|:-----:|:----------:|
-| ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white) 
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### **Version Control**
-| Git | GitHub |
-|:---:|:------:|
-| ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -42,7 +51,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated developer working t
 
 ## 📫 Get in Touch
 
-| 📧 **Email**    | [gabriel8github@gmail.com](mailto\:gabriel8github@gmail.com)             | [gabriel8webprogrammer@gmail.com](mailto\:gabriel8webprogrammer@gmail.com) |
+| 📧 **Email**    | [gabriel8webprogrammer@gmail.com](mailto\:gabriel8webprogrammer@gmail.com)             |  [gabriel8github@gmail.com](mailto\:gabriel8github@gmail.com) |
 | --------------- | ------------------------------------------------------------------------ | -------------------------------------------------------------------------- |
 | 💼 **LinkedIn** | [Gabriel on LinkedIn](https://www.linkedin.com/in/gabrielwebprogrammer/) |                                                                            |
 
