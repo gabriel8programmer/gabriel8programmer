@@ -3,7 +3,7 @@
 Bem-vindo ao meu perfil no GitHub. Sou um desenvolvedor backend focado em construir APIs escaláveis, seguras e eficientes.  
 
 ## Sobre Mim  
-- Especializado em **[Sua Stack Principal]**, com experiência em bancos de dados **SQL e NoSQL**.  
+- Especializado em **NodeJs**, com experiência em bancos de dados **SQL e NoSQL**.  
 - Apaixonado por **arquitetura de software**, **boas práticas** e desenvolvimento de aplicações **robustas**.  
 - Aberto a colaborações em projetos backend, APIs e soluções escaláveis.  
 
