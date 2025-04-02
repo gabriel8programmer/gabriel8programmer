@@ -1,4 +1,4 @@
-# Gabriel Pereira – Desenvolvedor Backend  
+<h1 align="center">Gabriel Pereira - Desenvolvedor Backend</h1>
 
 Bem-vindo ao meu perfil no GitHub. Sou um desenvolvedor backend focado em construir APIs escaláveis, seguras e eficientes.  
 
@@ -38,14 +38,7 @@ Bem-vindo ao meu perfil no GitHub. Sou um desenvolvedor backend focado em constr
 
 ---
 
-## Contato  
+## Entre em Contato 
 
-| 📧 E-mail       | [gabriel8webprogrammer@gmail.com](mailto:gabriel8webprogrammer@gmail.com) |  
-|----------------|--------------------------------------------------|  
-| 🔗 LinkedIn    | [gabrielwebprogrammer](https://www.linkedin.com/in/gabrielwebprogrammer/) |  
-
----
-
-Sempre em busca de desafios e aprendizado contínuo.  
-
-Se precisar de um desenvolvedor backend para o seu projeto, entre em contato! 🚀
+<a href="mailto:gabriel8webprogrammer@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
+<a href="https://www.linkedin.com/in/gabrielwebprogrammer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
