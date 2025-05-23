@@ -1,4 +1,11 @@
-![Banner](https://github.com/user-attachments/assets/fe720e0d-98f5-4e1a-9668-385bf4ab1319)
+![banner](https://github.com/user-attachments/assets/075ee0e1-fcb5-4a57-9886-9716d9a26c78)
+
+Bem-vindo ao meu perfil no GitHub. Sou um desenvolvedor backend focado em construir APIs escaláveis, seguras e eficientes.  
+
+## Sobre Mim  
+- Especializado em **NodeJs**, com experiência em bancos de dados **SQL e NoSQL**.  
+- Apaixonado por **arquitetura de software**, **boas práticas** e desenvolvimento de aplicações **robustas**.  
+- Aberto a colaborações em projetos backend, APIs e soluções escaláveis.
 
 ## Tech Stack  
 
