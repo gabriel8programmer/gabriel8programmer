@@ -39,8 +39,8 @@ Bem-vindo ao meu perfil no GitHub. Sou um desenvolvedor backend focado em constr
 
 ## Entre em Contato 
 
-<a href="mailto:gabriel8webprogrammer@gmail.com"><img src="https://img.shields.io/badge/Gmail-4323d5?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
-<a href="https://www.linkedin.com/in/gabrielwebprogrammer"><img src="https://img.shields.io/badge/linkedin-4323d5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
-<a href="https://portfolio-backend-bay-two.vercel.app/">
+<a href="mailto:gabriel8webprogrammer@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-4323d5?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
+<a href="https://www.linkedin.com/in/gabrielwebprogrammer" target="_blank"><img src="https://img.shields.io/badge/linkedin-4323d5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
+<a href="https://portfolio-backend-bay-two.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-4323d5.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfólio" />
 </a>
