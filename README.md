@@ -33,6 +33,10 @@
 ![Git](https://img.shields.io/badge/Git-4323d5?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-4323d5?style=for-the-badge&logo=github&logoColor=white)
 
+### Containerização
+
+![Docker](https://img.shields.io/badge/Docker-4323d5.svg?style=for-the-badge&logo=Docker&logoColor=whitehttps://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
+
 ---
 
 ## Entre em Contato
