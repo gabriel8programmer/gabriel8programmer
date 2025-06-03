@@ -22,7 +22,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4323d5?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4323d5.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-4323d5?style=for-the-badge&logo=Prisma&logoColor=white)  
-![Sequelize](https://img.shields.io/badge/Sequelize-4323d5?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-4323d5.svg?style=for-the-badge&logo=Mongoose&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-4323d5?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4323d5.svg?style=for-the-badge&logo=Insomnia&logoColor=white)
