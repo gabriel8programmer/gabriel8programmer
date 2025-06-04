@@ -23,19 +23,20 @@
 ![MySQL](https://img.shields.io/badge/mysql-4323d5.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-4323d5?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-4323d5.svg?style=for-the-badge&logo=Sequelize&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-4323d5.svg?style=for-the-badge&logo=Redis&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-4323d5.svg?style=for-the-badge&logo=Mongoose&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-4323d5?style=for-the-badge&logo=postman&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-4323d5.svg?style=for-the-badge&logo=Insomnia&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-4323d5.svg?style=for-the-badge&logo=Swagger&logoColor=white)
 
 ### Versionamento
 
 ![Git](https://img.shields.io/badge/Git-4323d5?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-4323d5?style=for-the-badge&logo=github&logoColor=white)
 
-### Containerização
+### Outros
 
 ![Docker](https://img.shields.io/badge/Docker-4323d5.svg?style=for-the-badge&logo=Docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-4323d5?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4323d5.svg?style=for-the-badge&logo=Insomnia&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-4323d5.svg?style=for-the-badge&logo=Swagger&logoColor=white)
 
 ---
 
