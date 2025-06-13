@@ -18,6 +18,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-4323d5?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-4323d5?style=for-the-badge&logo=express&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-4323d5.svg?style=for-the-badge&logo=Fastify&logoColor=white)
+![Nest](https://img.shields.io/badge/NestJS-4323d5.svg?style=for-the-badge&logo=NestJS&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4323d5.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4323d5?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4323d5.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -37,6 +38,8 @@
 ![Postman](https://img.shields.io/badge/Postman-4323d5?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4323d5.svg?style=for-the-badge&logo=Insomnia&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-4323d5.svg?style=for-the-badge&logo=Swagger&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-4323d5.svg?style=for-the-badge&logo=Jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-4323d5.svg?style=for-the-badge&logo=Vitest&logoColor=white)
 
 ---
 
