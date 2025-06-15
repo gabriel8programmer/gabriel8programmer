@@ -9,6 +9,8 @@
 - Apaixonado por **arquitetura de software**, **boas práticas** e desenvolvimento de aplicações **robustas**.  
 - Aberto a colaborações em projetos backend, APIs e soluções escaláveis.
 
+---
+
 ## Tech Stack  
 
 ### Linguagens  
